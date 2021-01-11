@@ -83,4 +83,4 @@ These Services do not address anyone under the age of 13.
 
 ## Contact Me
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at docile-alligator.app@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at docilealligator.app@gmail.com.
