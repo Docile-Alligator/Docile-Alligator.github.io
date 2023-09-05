@@ -27,7 +27,7 @@ This Service may contain links to other sites. If you click on these links, you 
 The non-Patreon version of Infinity for Reddit uses Google Play Billing library to manage payments and subscriptions. Infinity for Reddit now require subscription to use since Reddit started charging API usage on July 1st, 2023. Your Google Play order number, order date, and location (including your city, state/province, country and ZIP code) will be available to me, but they are not personally identifiable. You should check Google Play services' privacy policy for more details.
 
 ## Other APIs
-This app uses other public APIs: Imgur, Gfycat, Redgifs, Streamable, Pushshift and Reveddit. If you click on these links or use some of the features that require the APIs, you will be directed to that site or the app will directly show the media using their public APIs. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these services. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party APIs.
+This app uses other public APIs: Imgur, Gfycat, Redgifs, Streamable, Pushshift, Reveddit and Patreon (For Infinity for Reddit that uses Patreon as billing method). If you click on these links or use some of the features that require the APIs, you will be directed to that site or the app will directly show the media using their public APIs. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these services. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party APIs.
 
 ## Security
 
