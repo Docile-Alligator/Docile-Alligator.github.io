@@ -1,6 +1,6 @@
 # Privacy Policy - Infinity for Reddit
 
-#### Last updated: Jan 11, 2020
+#### Last updated: Sep 5, 2023
 
 I (Docile-Alligator) built the app, Infinity for Reddit ("Application" or "App"), as an Open Source app. This app is provided by me at no cost and is intended for use as is.
 
@@ -17,14 +17,17 @@ Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF
 ## Information Collection and Use
 
 ### Log Data
-I want to inform you that whenever you use my app, in a case of an error in the app, Google Play Services on your phone collect data called Log Data. The Log Data are then sent to my Google Play Console for debugging use. These Log Data include: your device model, your device's Android version, this app's version, the error stack trace and the time when the error happens. Non of the data are personally identifiable, which means I will not know who you are. Other data such as your name and email address, etc are not collected by Google Play Services, thus I cannot see them on Google Play Console.
+I want to inform you that whenever you use my app, in a case of an error in the app, Google Play Services on your phone collect data called Log Data. The Log Data are then sent to my Google Play Console for debugging use. These Log Data include: your device model, your device's Android version, this app's version, the error stack trace and the time when the error happens. None of the data are personally identifiable, which means I will not know who you are. Other data such as your name and email address, etc are not collected by Google Play Services, thus I cannot see them on Google Play Console.
 
 ## Other Services
 
 This Service may contain links to other sites. If you click on these links, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these services. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+## Google Play Billing
+The non-Patreon version of Infinity for Reddit uses Google Play Billing library to manage payments and subscriptions. Infinity for Reddit now require subscription to use since Reddit started charging API usage on July 1st, 2023. Your Google Play order number, order date, and location (including your city, state/province, country and ZIP code) will be available to me, but they are not personally identifiable. You should check Google Play services' privacy policy for more details.
+
 ## Other APIs
-This app uses two other public APIs: Gfycat and Imgur. If you click on these links, you will be directed to that site or the app will directly show the media using their public APIs. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these services. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party APIs.
+This app uses other public APIs: Imgur, Gfycat, Redgifs, Streamable, Pushshift and Reveddit. If you click on these links or use some of the features that require the APIs, you will be directed to that site or the app will directly show the media using their public APIs. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these services. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party APIs.
 
 ## Security
 
@@ -76,6 +79,9 @@ Your subscribed users's data are saved in the local database as the following co
 
 ### Multireddits
 Your multireddits' data are saved in the local database as the following columns: Multireddit Path, Display Name, Description, Copied From, Icon Url, Visibility, The Number of Subscribers, Creation Time, Is NSFW, Is Subscriber, Is Favorite.
+
+### Read posts
+Your read posts are saved in the local database as the following columns: Username, Id, Time.
 
 ## Children’s Privacy
 
