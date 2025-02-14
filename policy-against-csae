@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h2 id="infinity-for-reddit-policy-against-child-sexual-abuse-and-exploitation">Infinity for Reddit Policy Against Child Sexual Abuse and Exploitation</h2>
+<p><strong>Infinity for Reddit</strong> has zero tolerance for content or interactions that involve the sexual exploitation or abuse of minors. While our app does not host or store content directly, it enables access to Reddit’s platform through their official API. All content displayed in Infinity for Reddit originates from Reddit and is subject to Reddit’s policies and enforcement measures.</p>
+<h3 id="our-commitment-to-child-safety">Our Commitment to Child Safety</h3>
+<p><strong>Infinity for Reddit</strong> follows Reddit’s strict policies prohibiting:</p>
+<ul>
+<li>Any sexual or suggestive content involving minors (under 18 years<br>
+old)</li>
+<li>Any attempts to solicit, distribute, or engage in predatory behavior<br>
+towards minors</li>
+<li>Content depicting or promoting neglect, physical, or emotional abuse<br>
+of minors</li>
+</ul>
+<p>We stand firmly against any form of child exploitation and are committed to ensuring a safe browsing experience.</p>
+<h3 id="how-child-sexual-exploitation-content-is-handled">How Child Sexual Exploitation Content Is Handled</h3>
+<p>Since all content in Infinity for Reddit is provided through Reddit’s API, we rely on Reddit’s enforcement mechanisms to detect and remove such violations. Reddit utilizes:</p>
+<ul>
+<li>Industry-leading hash-matching technology (e.g., PhotoDNA, YouTube<br>
+CSAI Match) to detect and remove known child sexual abuse material<br>
+(CSAM).</li>
+<li>Automated content detection methods to identify high-risk<br>
+interactions that could lead to child exploitation.</li>
+<li>Reports from child safety organizations like the National Center for<br>
+Missing and Exploited Children (NCMEC).</li>
+<li>User reporting mechanisms to flag inappropriate content for review<br>
+and removal.</li>
+</ul>
+<p>When Reddit detects CSAM, they immediately remove the content, ban the violating accounts, and report it to law enforcement as required by law.</p>
+<h3 id="reporting-violations">Reporting Violations</h3>
+<p>If you encounter any content on Infinity for Reddit that you believe involves child sexual exploitation, please report it directly to Reddit by using any of the option:</p>
+<ul>
+<li>Using Infinity for Reddit’s in-app reporting option to flag the<br>
+content and user.</li>
+<li>Submitting a report via Reddit’s website or app. To know how, read <a href="https://support.reddithelp.com/hc/en-us/articles/360058309512-How-do-I-report-a-post-or-comment">here</a>.</li>
+</ul>
+<p>If you are a victim or need support, you can reach out to:</p>
+<p><em>In the US:</em></p>
+<ul>
+<li>National Center for Missing &amp; Exploited Children (NCMEC):<br>
+<a href="https://www.missingkids.org/gethelpnow/cybertipline">CyberTipline</a></li>
+<li>National Sexual Assault Hotline (U.S.): 1-800-656-HOPE</li>
+<li>Childhelp (U.S.): 1-800-4ACHILD</li>
+</ul>
+<p><em>Outside the US:</em></p>
+<ul>
+<li><a href="http://www.childhelplineinternational.org/">Child Helpline International</a></li>
+</ul>
+<h3 id="continuous-efforts">Continuous Efforts</h3>
+<p>Infinity for Reddit remains dedicated to providing a safe browsing experience by adhering to Reddit’s strict enforcement measures. We support efforts to combat child sexual abuse and exploitation and encourage our users to report any suspicious or harmful activity.</p>
+<p>For more information, please refer to <a href="https://support.reddithelp.com/hc/en-us/articles/10654543840276-How-does-Reddit-fight-Child-Sexual-Exploitation">Reddit’s policies on child sexual exploitation</a>.</p>
+</div>
+</body>
+
+</html>
